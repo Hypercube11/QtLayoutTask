@@ -24,7 +24,7 @@
 **О разработчике:**
 Идея о создании такой великой игры, как Dota 2, настигла меня внезапно. Мысль о уединении людей в сказочном Мире волшебства и магии заставила моё сознание воплотить все описанные чудеса в Мир бытия. 
 
-![Территория](https://img.itch.zone/aW1nLzUxMzU1NDgucG5n/original/cIOU%2FP.png) \
+![Территория](https://avatars.dzeninfra.ru/get-zen_doc/8291287/pub_645fa1a1431d8c20993daf24_645fa277c4e39a372a11232e/scale_1200) \
 ![Котик](https://img.itch.zone/aW1nLzYxMzA0MjIuZ2lm/original/x7XLh2.gif) \
 ![Лисичка](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
 ```python
