@@ -24,8 +24,8 @@
 **О разработчике:**
 Идея о создании такой великой игры, как Dota 2, настигла меня внезапно. Мысль о уединении людей в сказочном Мире волшебства и магии заставила моё сознание воплотить все описанные чудеса в Мир бытия. 
 
-![Территория](https://avatars.dzeninfra.ru/get-zen_doc/8291287/pub_645fa1a1431d8c20993daf24_645fa277c4e39a372a11232e/scale_1200) \
-![Котик](https://img.itch.zone/aW1nLzYxMzA0MjIuZ2lm/original/x7XLh2.gif) \
+!(https://avatars.dzeninfra.ru/get-zen_doc/8291287/pub_645fa1a1431d8c20993daf24_645fa277c4e39a372a11232e/scale_1200) \
+!(https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Keyart_phoenix.jpg/revision/latest/scale-to-width-down/1200?cb=20140130010111) \
 ![Лисичка](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
 ```python
 print(Игра сделана на Python :) )
